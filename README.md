@@ -9,8 +9,7 @@ Características a serem pontuadas:
 
 Para executar o código IaaS basta executar:
 - terraform init
-- terraform apply
-- Digitar "yes" quando for solicitado
+- terraform apply --auto-approve
 
 Arquitetura:
 
